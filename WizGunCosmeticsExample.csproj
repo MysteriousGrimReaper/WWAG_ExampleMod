@@ -10,52 +10,52 @@
 
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\WizGunCosmetics\Libraries\0Harmony.dll</HintPath>
+      <HintPath>..\Libraries\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\WizGunCosmetics\Libraries\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\Libraries\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>..\WizGunCosmetics\Libraries\BepInEx.dll</HintPath>
+      <HintPath>..\Libraries\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="GGAI">
-      <HintPath>..\WizGunCosmetics\Libraries\GGAI.dll</HintPath>
+      <HintPath>..\Libraries\GGAI.dll</HintPath>
     </Reference>
     <Reference Include="GGDebug">
-      <HintPath>..\WizGunCosmetics\Libraries\GGDebug.dll</HintPath>
+      <HintPath>..\Libraries\GGDebug.dll</HintPath>
     </Reference>
     <Reference Include="GGECS">
-      <HintPath>..\WizGunCosmetics\Libraries\GGECS.dll</HintPath>
+      <HintPath>..\Libraries\GGECS.dll</HintPath>
     </Reference>
     <Reference Include="GGNet">
-      <HintPath>..\WizGunCosmetics\Libraries\GGNet.dll</HintPath>
+      <HintPath>..\Libraries\GGNet.dll</HintPath>
     </Reference>
     <Reference Include="GGPhys">
-      <HintPath>..\WizGunCosmetics\Libraries\GGPhys.dll</HintPath>
+      <HintPath>..\Libraries\GGPhys.dll</HintPath>
     </Reference>
     <Reference Include="GGPhys.Examples">
-      <HintPath>..\WizGunCosmetics\Libraries\GGPhys.Examples.dll</HintPath>
+      <HintPath>..\Libraries\GGPhys.Examples.dll</HintPath>
     </Reference>
     <Reference Include="GGUtil">
-      <HintPath>..\WizGunCosmetics\Libraries\GGUtil-Publicized.dll</HintPath>
+      <HintPath>..\Libraries\GGUtil-Publicized.dll</HintPath>
     </Reference>
     <Reference Include="GGWorldGen">
-      <HintPath>..\WizGunCosmetics\Libraries\GGWorldGen.dll</HintPath>
+      <HintPath>..\Libraries\GGWorldGen.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>..\WizGunCosmetics\Libraries\Unity.Collections.dll</HintPath>
+      <HintPath>..\Libraries\Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\WizGunCosmetics\Libraries\UnityEngine.dll</HintPath>
+      <HintPath>..\Libraries\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\WizGunCosmetics\Libraries\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>..\Libraries\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
-      <HintPath>..\WizGunCosmetics\Libraries\UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>..\Libraries\UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
     <Reference Include="WizGun">
-      <HintPath>..\WizGunCosmetics\Libraries\WizGun-Publicized.dll</HintPath>
+      <HintPath>..\Libraries\WizGun-Publicized.dll</HintPath>
     </Reference>
   </ItemGroup>
 
