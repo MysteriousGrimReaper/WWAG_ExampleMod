@@ -1,0 +1,10 @@
+{
+  "name": "Cosmetics Example Mod",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ScottWilson0903/WWAG_ExampleMod",
+  "description": "Example Mod",
+  "dependencies": [
+    "Cyantist-API-1.0.0",
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
