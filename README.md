@@ -1,3 +1,3 @@
 # Example Mod
 
-Example mod importing one new robe glamour
+Example mod importing one new glamour of each type other than eyes
